@@ -1,7 +1,7 @@
 <h1>Desafio Verity</h1>
 
 
-![Logo](https://github.com/Ingrid2110rj/challenge-coodesh/blob/main/logo.jfif)
+![Logo](tps://github.com/Ingrid2110rj/DesafioVerity/blob/main/2022-08-22_19-56_logo.jpg)
 
 
 > Status do Projeto: :heavy_check_mark: (Concluído)
