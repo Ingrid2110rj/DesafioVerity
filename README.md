@@ -27,7 +27,6 @@
 
 :warning: [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress#What-you-ll-learn)
 
-:warning: [Faker-br](https://www.npmjs.com/package/faker-br)
 
 ## Como rodar a aplicação :arrow_forward:
 
