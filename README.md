@@ -7,12 +7,6 @@
 > Status do Projeto: :heavy_check_mark: (Concluído)
 > 
 
-### Tópicos
-
-:small_blue_diamond: [Descrição do projeto](https://github.com/Ingrid2110rj/challenge-coodesh/blob/main/Descri%C3%A7%C3%A3odoProjeto.md)
-
-
-
 ## Funcionalidades
 
 :heavy_check_mark: Home Page
