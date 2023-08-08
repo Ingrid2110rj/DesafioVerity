@@ -40,14 +40,14 @@
 No terminal, clone o projeto:
 
 ```
-git clone <https://github.com/Ingrid2110rj/challenge-coodesh.git>
+git clone <[https://github.com/Ingrid2110rj/DesafioVerity.git]>
 
 ```
 
 Acesse a pasta do projeto no terminal/cmd:
 
 ```
-cd challenge-coodesh
+cd DesafioVerity
 
 ```
 
@@ -75,7 +75,7 @@ npx cypess open
 Para documentação de palavras-chave individuais, consulte o seguinte:
 
  - [Documentação Cypress](https://docs.cypress.io/guides/overview/why-cypress)
- - [Documentação Faker-br](https://www.npmjs.com/package/faker-br/)
+
  
 
 
